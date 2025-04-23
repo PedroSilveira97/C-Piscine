@@ -1,0 +1,8 @@
+int	main()
+{
+	char a[] = {"heitor"};
+	char b[] = {"z"};
+	int h = strcmp(a, b);
+	printf("%d\n", h);
+return 0;
+}
